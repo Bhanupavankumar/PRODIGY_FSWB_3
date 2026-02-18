@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <rect width="120" height="120" rx="12" fill="#f8fff4"/>
+  <g transform="translate(12,10)">
+    <rect x="8" y="10" width="80" height="54" rx="6" fill="#A5D6A7"/>
+    <path d="M36 18c6 0 12 6 12 12s-6 12-12 12-12-6-12-12 6-12 12-12z" fill="#66BB6A"/>
+    <rect x="12" y="72" width="72" height="14" rx="3" fill="#8E24AA"/>
+    <text x="48" y="84" font-size="8" text-anchor="middle" fill="#fff" font-family="Arial">Grapes</text>
+  </g>
+</svg>

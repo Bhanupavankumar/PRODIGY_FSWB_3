@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <rect width="120" height="120" rx="12" fill="#fff8f8"/>
+  <g transform="translate(12,12)">
+    <rect x="8" y="8" width="80" height="56" rx="6" fill="#FFE0B2"/>
+    <circle cx="44" cy="34" r="16" fill="#FFCC80"/>
+    <rect x="12" y="74" width="72" height="14" rx="3" fill="#D84315"/>
+    <text x="48" y="86" font-size="8" text-anchor="middle" fill="#fff" font-family="Arial">Potato</text>
+  </g>
+</svg>

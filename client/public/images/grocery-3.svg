@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#F4FFFB"/>
+  <path d="M22 18c0-4 6-6 10-6s10 2 10 6v6H22z" fill="#6BCB77"/>
+  <rect x="16" y="30" width="32" height="18" rx="2" fill="#FFE2A3"/>
+  <text x="32" y="50" font-size="6" text-anchor="middle" fill="#333" font-family="Arial">Milk</text>
+</svg>

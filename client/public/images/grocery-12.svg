@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <rect width="120" height="120" rx="12" fill="#f2f7ff"/>
+  <g transform="translate(12,12)">
+    <rect x="8" y="8" width="80" height="56" rx="6" fill="#BBDEFB"/>
+    <path d="M40 24c4 0 8 6 8 10s-4 10-8 10-10-4-10-8 6-12 10-12z" fill="#1976D2"/>
+    <rect x="12" y="74" width="72" height="14" rx="3" fill="#0288D1"/>
+    <text x="48" y="86" font-size="8" text-anchor="middle" fill="#fff" font-family="Arial">Onion</text>
+  </g>
+</svg>

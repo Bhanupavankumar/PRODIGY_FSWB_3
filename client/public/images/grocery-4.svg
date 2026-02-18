@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#FFF7F0"/>
+  <circle cx="32" cy="22" r="10" fill="#FFD54A"/>
+  <rect x="20" y="34" width="24" height="16" rx="2" fill="#FF8A65"/>
+  <text x="32" y="50" font-size="6" text-anchor="middle" fill="#fff" font-family="Arial">Carrot</text>
+</svg>

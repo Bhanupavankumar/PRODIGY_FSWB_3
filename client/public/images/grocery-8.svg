@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <rect width="120" height="120" rx="12" fill="#f3f7ff"/>
+  <g transform="translate(12,12)">
+    <rect x="8" y="8" width="80" height="56" rx="6" fill="#90CAF9"/>
+    <ellipse cx="44" cy="34" rx="22" ry="12" fill="#FFF"/>
+    <rect x="12" y="74" width="72" height="14" rx="3" fill="#388E3C"/>
+    <text x="48" y="86" font-size="8" text-anchor="middle" fill="#fff" font-family="Arial">Eggs (6)</text>
+  </g>
+</svg>

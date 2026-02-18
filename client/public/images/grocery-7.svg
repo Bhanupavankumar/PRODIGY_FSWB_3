@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <rect width="120" height="120" rx="12" fill="#fffaf6"/>
+  <g transform="translate(10,8)">
+    <rect x="8" y="8" width="80" height="48" rx="6" fill="#FFD54A"/>
+    <path d="M28 30c0-6 10-10 18-10s18 4 18 10v6H28z" fill="#FFC107"/>
+    <rect x="10" y="66" width="76" height="18" rx="3" fill="#8D6E63"/>
+    <text x="48" y="78" font-size="9" text-anchor="middle" fill="#fff" font-family="Arial">Banana</text>
+  </g>
+</svg>

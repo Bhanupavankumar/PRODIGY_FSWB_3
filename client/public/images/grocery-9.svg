@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <rect width="120" height="120" rx="12" fill="#fff9f0"/>
+  <g transform="translate(10,10)">
+    <rect x="8" y="10" width="84" height="52" rx="6" fill="#FFCDD2"/>
+    <circle cx="44" cy="34" r="16" fill="#FF8A80"/>
+    <rect x="12" y="72" width="76" height="14" rx="3" fill="#6D4C41"/>
+    <text x="48" y="84" font-size="8" text-anchor="middle" fill="#fff" font-family="Arial">Tomato</text>
+  </g>
+</svg>
